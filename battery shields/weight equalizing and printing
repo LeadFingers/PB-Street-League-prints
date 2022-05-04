@@ -1,0 +1,14 @@
+The purpose of these battery shields is to primarily protect the battery's from damage and secondarily to equalize the weight of different batteries
+the battery pad is installed on the battery shield itself and not on the drone frame
+the cut out is for the battery strap to directly contact the battery
+The shield stays on the drone and the batteries easily slide in and out of it, you only need 1
+
+shields should be printed with enough walls to ensure that the back surface where the battery pad will be installed has ZERO infill, I use 4 walls.
+this is to prevent the battery from rocking around and introducing noise into your gyro
+
+You can use these shields to equalize the weight between batteries so that the battery + shield total weight is always the same
+My pyrodrone batteries are 15g heavier than my GNB batteries. So I chose to have my pyrodrone battery shield weigh 66g and my GNB battery shield weigh 81g.
+to determine the weight of your print slice the file in CURA with no supports, bed adhesion, etc. 
+then adjust your infill percentage until you hit your desired weight before adding supports, bed adhesion, etc. back in to do the print
+
+if you would like a shield made for your batteris please contact me on the Street League discord server ( https://discord.gg/rqGfKBbYbP ) and @LeadFingers to find me
